@@ -58,13 +58,17 @@ a:focus{
 	outline: none;
 	outline-offset: 0;
 }
+.bmain{
+	 border-radius: 22px;
+     width: 70%;
+}
 .btn {
-    border-radius: 22px;
-    width: 70%;
+    border-radius: 0;
 }
 .btn:focus{
 	outline: none;
 }
+
 /*-----  End of Typography  ------*/
 
 

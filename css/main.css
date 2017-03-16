@@ -1434,3 +1434,23 @@ border: 6px dashed #e6e6e6;
 	padding:30px 0 30px 0;
 }
 
+/*-----  Start hyperlink disable  ------*/
+ a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+  } 
+ a:visited {
+  /* Applies to all visited links */
+  text-decoration:  none;
+
+  } 
+ a:hover   {
+  /* Applies to links under the pointer */
+  text-decoration:  none;
+  } 
+ a:active  {
+  /* Applies to activated links */
+  text-decoration:  none;
+  } 
+/*-----  End hyperlink disable  ------*/
+

@@ -1,0 +1,21 @@
+﻿.penzz {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    background:url(penzz.png);
+    background-size: cover;
+     width: 160px;
+    height: 80px; /* This is required */
+    color: #596fff;
+}
+
+.penzz .penzz-home {
+    
+}
+
+.penzz .normal {
+   
+}

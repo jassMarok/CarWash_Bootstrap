@@ -1350,7 +1350,7 @@ border: 6px dashed #e6e6e6;
     background:url(../img/penzz.png);
     background-size: cover;
      width: 160px;
-    height: 80px; /* This is required */
+    height: 70px; /* This is required */
     color: #596fff;
 }
 /*-----  End Custom Icon ------*/

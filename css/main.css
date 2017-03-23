@@ -1377,3 +1377,20 @@ border: 6px dashed #e6e6e6;
   } 
 /*-----  End hyperlink disable  ------*/
 
+/*==============================
+=    Map CSS   =
+==============================*/
+.map {
+    height: 500px;
+}
+
+@media(max-width:768px) {
+    .map {
+        height: 75%;
+    }
+}
+
+.map iframe {
+    pointer-events: none;
+}
+/*-----  End Map Css ------*/
